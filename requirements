@@ -1,0 +1,11 @@
+tqdm
+pandas
+py2neo
+langchain
+langchain_openai
+langchain-community
+gradio
+faiss-cpu
+python-dotenv
+chromadb
+bs4
